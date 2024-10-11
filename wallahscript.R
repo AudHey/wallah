@@ -6,3 +6,5 @@ otrevecteur <- c("haha", "hihi", "houhou")
 
 #blabla
 setwd()
+
+#Ajouté sur internet
